@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/rashmika-rupasinghe-9047a1246/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/IT22106360">
+  <a href="https://github.com/rupetheKpoT">
     <img src="https://img.shields.io/badge/GitHub-IT22106360-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="mailto:wark.rupasinghe.work@gmail.com">
