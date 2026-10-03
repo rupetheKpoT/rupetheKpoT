@@ -118,7 +118,7 @@ Technical Support Skills  █████████████░░░░░
   &nbsp; • &nbsp;
   <a href="https://www.linkedin.com/in/rashmika-rupasinghe-9047a1246/"><b>LinkedIn</b></a>
   &nbsp; • &nbsp;
-  <a href="https://github.com/rupetheKpoT/Rashmika-Rupasinghe"><b>GitHub</b></a>
+  <a href="https://github.com/rupetheKpoT"><b>GitHub</b></a>
   &nbsp; • &nbsp;
   <a href="mailto:rashmikarupasinghe27@gmail.com"><b>Email</b></a>
 </p>
