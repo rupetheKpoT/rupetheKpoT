@@ -1,41 +1,128 @@
-<h1 align="center">Hi 👋, I'm Rashmika Rupasinghe</h1>
-<h3 align="center">Data Wonders from Sri Lanka: Data Science & Tech Enthusiast 💻✨</h3>
+<div align="center">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=it22106360&label=Profile%20views&color=0e75b6&style=flat" alt="it22106360" /> </p>
+# 👋 Hi, I'm **Rashmika Rupasinghe**
+
+### `Software Quality Testing` × `QA Engineering` × `Test Documentation` × `Automation Foundations`
+
+<p>
+  <a href="https://rashmika.maximumeffortlk.site/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/rashmika-rupasinghe-9047a1246/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/IT22106360">
+    <img src="https://img.shields.io/badge/GitHub-IT22106360-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:wark.rupasinghe.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=IT22106360&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views">
+</p>
+
+</div>
 
 ---
 
-<img align="right" top="500" height="150" width="250" alt="GIF" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
+## 🧪 Software Quality Testing
 
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
-- 🌱 I’m currently learning **AI/ML**,and **Analytics**
-- 📫 How to reach me **wark.rupasinghe.work@gmail.com**
+I am a **BSc (Hons) in Information Technology graduate, specializing in Data Science at SLIIT**, with a strong focus on **Software Quality Assurance and Software Testing**.
 
-### Connect with me 
-[![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/rashmika-rupasinghe-9047a1246/)
+My QA interest is centered on making software more reliable, usable and release-ready through clear test planning, careful execution and practical defect reporting. I enjoy validating real application behavior, identifying issues early and communicating findings in a way that helps teams improve product quality.
 
+### Core QA Strengths
 
-<h3 align="left">Languages and Tools:</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.android.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/> 
-  </a> 
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-</a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
-  </a></p>
-</div>
+- **Manual Testing** — functional testing, exploratory testing, smoke testing and regression testing
+- **Test Case Design** — writing clear test scenarios, test cases and expected results
+- **Bug Reporting** — documenting defects with steps to reproduce, actual results, expected results and severity
+- **Black-Box Testing** — validating user-facing behavior against requirements and acceptance criteria
+- **API Testing Foundations** — using Postman to test requests, responses and basic API workflows
+- **Automation Foundations** — familiar with Selenium concepts and test automation basics
+- **Quality Mindset** — detail-oriented, structured and focused on user experience
+
+---
+
+## 🛠️ QA Tools & Technical Skills
+
+### 🧪 Quality Assurance & Testing
+<p>
+  <img src="https://img.shields.io/badge/Manual%20Testing-111827?style=flat-square" alt="Manual Testing">
+  <img src="https://img.shields.io/badge/Functional%20Testing-2563EB?style=flat-square" alt="Functional Testing">
+  <img src="https://img.shields.io/badge/Regression%20Testing-2563EB?style=flat-square" alt="Regression Testing">
+  <img src="https://img.shields.io/badge/Smoke%20Testing-2563EB?style=flat-square" alt="Smoke Testing">
+  <img src="https://img.shields.io/badge/Black--Box%20Testing-2563EB?style=flat-square" alt="Black Box Testing">
+  <img src="https://img.shields.io/badge/Test%20Cases-047857?style=flat-square" alt="Test Cases">
+  <img src="https://img.shields.io/badge/Bug%20Reports-047857?style=flat-square" alt="Bug Reports">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
+</p>
+
+### 💻 Programming & Web Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,php,kotlin,c,cpp" alt="Programming technologies">
+</p>
+<p>
+  Python • Java • JavaScript • HTML • CSS • PHP • Kotlin • C • C++
+</p>
+
+### ☁️ Development, Cloud & Collaboration
+<p>
+  <img src="https://skillicons.dev/icons?i=git,aws,azure,docker,react,nodejs,express,flask,bootstrap,figma" alt="Development technologies">
+</p>
+<p>
+  Git • AWS • Microsoft Azure • Docker • React • Node.js • Express • Flask • Bootstrap • Figma
+</p>
+
+### 🗄️ Databases & Data Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" alt="Database technologies">
+  <br><br>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=111827" alt="Power BI">
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
+</p>
+<p>
+  MySQL • MongoDB • Firebase • Microsoft SQL Server • Oracle • SQL • Power BI • Excel
+</p>
+
+### 📋 Project & Task Management
+<p>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira">
+  <img src="https://img.shields.io/badge/Asana-F06A6A?style=flat-square&logo=asana&logoColor=white" alt="Asana">
+  <img src="https://img.shields.io/badge/Trello-0A66C2?style=flat-square&logo=trello&logoColor=white" alt="Trello">
+  <img src="https://img.shields.io/badge/Microsoft%20Project-31752F?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Project">
+</p>
+
+---
+
+## 🎯 Current Focus
+
+```text
+Software Quality Testing  ████████████████████   Manual QA • Test Cases • Bug Reports
+Test Documentation        ███████████████████░   Test Scenarios • Expected Results
+API Testing               ███████████████░░░░░   Postman • Request / Response Checks
+Automation Foundations    ██████████████░░░░░░   Selenium • QA Automation Basics
+Technical Support Skills  █████████████░░░░░░░   SQL • Web • Cloud • Data Tools
+```
+
+---
+
+## 📬 Let's Connect
+
+<p align="center">
+  <a href="https://rashmika.maximumeffortlk.site/"><b>Portfolio</b></a>
+  &nbsp; • &nbsp;
+  <a href="https://www.linkedin.com/in/rashmika-rupasinghe-9047a1246/"><b>LinkedIn</b></a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/rupetheKpoT/Rashmika-Rupasinghe"><b>GitHub</b></a>
+  &nbsp; • &nbsp;
+  <a href="mailto:rashmikarupasinghe27@gmail.com"><b>Email</b></a>
+</p>
+
+<p align="center">
+  <i>Focused on improving software quality through careful testing, clear documentation and a strong user-first mindset.</i>
+</p>
